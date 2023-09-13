@@ -93,11 +93,11 @@ namespace ODEditor
             if (eds == null)
                 return;
 
-            devicePDOView1.eds = eds;
-            devicePDOView1.UpdatePDOinfo();
+            // devicePDOView1.eds = eds;
+            // devicePDOView1.UpdatePDOinfo();
 
-            devicePDOView2.eds = eds;
-            devicePDOView2.UpdatePDOinfo();
+            // devicePDOView2.eds = eds;
+            // devicePDOView2.UpdatePDOinfo();
 
         }
 
