@@ -95,7 +95,6 @@ namespace ODEditor
 
             // devicePDOView1.eds = eds;
             // devicePDOView1.UpdatePDOinfo();
-
             // devicePDOView2.eds = eds;
             // devicePDOView2.UpdatePDOinfo();
 
