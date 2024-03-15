@@ -1,4 +1,4 @@
-CANopenEditor
+CANopenEditor 
 =============
 CANopenEditor is a fork from https://github.com/robincornelius/libedssharp, author Robin Cornelius.
 Its homepage is https://github.com/CANopenNode/CANopenEditor
